@@ -16,5 +16,10 @@
     "psr/log": "@stable",
     "riftfox/wechat-exception": "v0.1",
     "riftfox/wechat-application": "v0.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Riftfox\\Wechat\\Token\\": "src/"
+    }
   }
 }
