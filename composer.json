@@ -14,8 +14,8 @@
     "psr/http-factory": "@stable",
     "psr/simple-cache": "@stable",
     "psr/log": "@stable",
-    "riftfox/wechat-exception": "v0.1",
-    "riftfox/wechat-application": "v0.1"
+    "riftfox/wechat-exception": "dev-main",
+    "riftfox/wechat-application": "dev-main"
   },
   "autoload": {
     "psr-4": {
